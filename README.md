@@ -11,9 +11,14 @@
 
 ## 測試完成
 - 推播
+ <img src="images/line_push.png" alt="作業一執行成果截圖" width="400">
+ 
 - 回覆
+ <img src="images/line_reply.png" alt="作業一執行成果截圖" width="400">
 
 
 ## TODO
-- 模型回覆不正確
+- 模型回覆不正確：寶貝女鵝～你爸爸＆阿公不是賴清德ＱＱ
+<img src="images/langgraph_test_1.png" alt="作業一執行成果截圖" width="400">
+
 - LangGraph 繪圖失敗
